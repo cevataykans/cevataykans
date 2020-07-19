@@ -9,9 +9,9 @@
 * **Bilkent**
   * [Catan Digital Board Game](https://github.com/cevataykans/catan-digital-board-game) 
   * [Emergency Elevator](https://github.com/cevataykans/emergency-elevator)
-  * Various labs and homeworks
 * **KTH**
-  * Automata Theory
+  * [Automaton Constructor](https://github.com/cevataykans/automaton-constructor)
+  * [CFL Model Check](https://github.com/cevataykans/cfl-model-checking-flow-graph)
 * **Unity**
   * [Flappy Bird (My first game)](https://github.com/cevataykans/unity-flappy-bird-replica)
   * Moralabs
