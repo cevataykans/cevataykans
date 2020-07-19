@@ -7,13 +7,13 @@
 
 ## Portfolio Highlights
 * **Bilkent**
-  * [Catan Digital Board Game] (https://github.com/cevataykans/catan-digital-board-game) 
-  * [Emergency Elevator] (https://github.com/cevataykans/emergency-elevator)
+  * [Catan Digital Board Game](https://github.com/cevataykans/catan-digital-board-game) 
+  * [Emergency Elevator](https://github.com/cevataykans/emergency-elevator)
   * Various labs and homeworks
 * **KTH**
   * Automata Theory
 * **Unity**
-  * [Flappy Bird (My first game)] (https://github.com/cevataykans/unity-flappy-bird-replica)
+  * [Flappy Bird (My first game)](https://github.com/cevataykans/unity-flappy-bird-replica)
   * Moralabs
     * Sling Boat 3D: 
 
