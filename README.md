@@ -1,9 +1,13 @@
-### - Hello there 👋 - General Kenobi!
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, <General Kenobi!/>! </h1>
 
+<img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='200"'>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-CevatAykanSevinc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cevataykansevinc/)](https://www.linkedin.com/in/cevataykansevinc/) 
+ 
 ## About Me
-* Working on Unity game development. Learning Unity game engine and improving my software engineering skills. 
+* Working on game development, database systems, computer graphics and operating systems.
 * Reading about design patterns and game design.
-* Want to learn multiplayer game development and master gameplay programming.
+* Learning multiplayer game development and mastering gameplay programming.
 
 ## Portfolio Highlights
 * **Bilkent**
@@ -14,8 +18,10 @@
   * [CFL Model Check](https://github.com/cevataykans/cfl-model-checking-flow-graph)
 * **Unity**
   * [Flappy Bird (My first game)](https://github.com/cevataykans/unity-flappy-bird-replica)
-  * Moralabs
-    * Sling Boat 3D: 
+  * [Moralabs - Rebond](https://play.google.com/store/apps/details?id=com.moralabs.journey&hl=en_US)
+* **Miscellaneous**
+   * [Multiplayer-FPS (My first MP game)](https://github.com/cevataykans/custom-multiplayer)
+   * [Threading - C#](https://github.com/cevataykans/threading-examples)
 
 ## Fun Fact
 * The first game I played was Worms Armageddon when I was 7 years old. Since then I have been playing video games 🌱 .
@@ -34,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
