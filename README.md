@@ -1,4 +1,4 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, <General Kenobi!/>! </h1>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋 < General Kenobi!/></h2>
 
 <img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='200"'>
 
@@ -40,4 +40,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
