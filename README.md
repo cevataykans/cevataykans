@@ -1,6 +1,6 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋 < General Kenobi!/></h2>
- [![Linkedin Badge](https://img.shields.io/badge/-CevatAykanSevinc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cevataykansevinc/)](https://www.linkedin.com/in/cevataykansevinc/) 
- 
+# Hello there 👋 
+**<General Kenobi!/>**
+
 ## About Me
 * Working on game development, database systems, computer graphics and operating system concepts.
 * Reading about design patterns and game design.
