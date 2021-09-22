@@ -9,7 +9,7 @@
 ## About Me
 
 -  Lifelong software engineering student.
--  Open for any backend opportunities.
+-  Open for backend opportunities.
 -  Great passion for distributed systems.
 -  Currently working as a game developer.
 -  💬 Ask me about || :owl: currently learning:
