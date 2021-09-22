@@ -2,7 +2,7 @@
 
 <img align='right' src='https://c.tenor.com/rkzdlwxESqUAAAAC/cat-thurston-waffles.gif' width='125"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-cevataykans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cevataykans/)](https://www.linkedin.com/in/cevataykans/) [![Gmail Badge](https://img.shields.io/badge/-cevataykansevinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cevataykansevinc@gmail.com)](cevataykansevinc@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-cevataykans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cevataykans/)](https://www.linkedin.com/in/cevataykans/) [![Gmail Badge](https://img.shields.io/badge/-cevataykansevinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cevataykansevinc@gmail.com)](mailto:cevataykansevinc@gmail.com)
 
 ---
 
@@ -67,7 +67,7 @@
 
 ### Awesome Projects
 
--  [Discord Game Night Bot](https://gamenights.games) [^1]
+-  [Discord Game Night Bot](https://gamenights.games)[^1]
    > Play social deduction games including Avallon, Secret Hitler, SpyFall, Mafia with your friends on Discord. _C#, MongoDB, Raspberry Pi 4, CI/CD_
 -  [Multiplayer-FPS (My first MP game)](https://github.com/cevataykans/custom-multiplayer)
    > Basic implementation of FPS Multiplayer concepts. _Unity, C#, Custom Network Code_
@@ -91,3 +91,9 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
 
 -->
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
